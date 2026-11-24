@@ -1,0 +1,8 @@
+{
+  "versionCode": 13,
+  "versionName": "0.0.13",
+  "apk": "fishpipe-release.apk",
+  "sha256": "600209ce75208007a1dd78e1a389dbc795d129d9c2373412a51c60d022f658e1",
+  "whatsNew": "- No new features in this release.",
+  "bugFixes": "- Fixed stale partial downloads not recovering after a server range error.\n- Fixed update folder selection accepting a manifest without the release APK.\n- Fixed a stale downloaded update being installed after a newer version was found.\n- Fixed a missing cached update APK not being downloaded again."
+}
